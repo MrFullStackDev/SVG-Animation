@@ -1,4 +1,4 @@
-# svg-animation
+# SVG-Animation
 
 ***With the help CSS keyframes created a basic animated SVG.***
 
